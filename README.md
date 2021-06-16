@@ -1,6 +1,6 @@
 # flutter_application
 
-A new Flutter project.
+A Basic catalogue app made with flutter 
 
 ## Getting Started
 
